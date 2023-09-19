@@ -1,1 +1,3 @@
-"# P1_A1-_NPC-Development_Steven-Laird" 
+# Programming 1
+## Assignment 1: NPC Development
+### Steven Laird
